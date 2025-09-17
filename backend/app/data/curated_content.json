@@ -1,0 +1,37 @@
+{
+  "Python": [
+    {"title": "Python Full Course for Beginners", "provider": "YouTube", "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc", "type": "course"},
+    {"title": "Automate the Boring Stuff with Python", "provider": "Book", "url": "https://automatetheboringstuff.com/", "type": "reading"},
+    {"title": "CS50P: Introduction to Programming with Python", "provider": "edX", "url": "https://www.edx.org/cs50p", "type": "course"}
+  ],
+  "React": [
+    {"title": "React Tutorial - Beginner's Guide", "provider": "YouTube", "url": "https://www.youtube.com/watch?v=SqcY0GlETPk", "type": "course"},
+    {"title": "Official React Docs - Learn", "provider": "Docs", "url": "https://react.dev/learn", "type": "reading"},
+    {"title": "Complete React Developer (w/ Redux, Hooks)", "provider": "Udemy", "url": "https://www.udemy.com/course/complete-react-developer-zero-to-mastery/", "type": "course"}
+  ],
+  "PostgreSQL": [
+    {"title": "PostgreSQL Tutorial", "provider": "Tutorial", "url": "https://www.postgresqltutorial.com/", "type": "reading"},
+    {"title": "SQL for Data Analysis", "provider": "Coursera", "url": "https://www.coursera.org/learn/sql-for-data-analysis", "type": "course"},
+    {"title": "The Complete SQL Bootcamp", "provider": "Udemy", "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/", "type": "course"}
+  ],
+  "Docker": [
+    {"title": "Docker Tutorial for Beginners", "provider": "YouTube", "url": "https://www.youtube.com/watch?v=3c-iBn73dDE", "type": "course"},
+    {"title": "Docker Docs - Get Started", "provider": "Docs", "url": "https://docs.docker.com/get-started/", "type": "reading"}
+  ],
+  "AWS": [
+    {"title": "AWS Cloud Practitioner Essentials", "provider": "AWS", "url": "https://www.aws.training/Details/Curriculum?id=20685", "type": "course"},
+    {"title": "AWS Developer - Building Modern Apps", "provider": "Coursera", "url": "https://www.coursera.org/specializations/aws-developer-modern-apps", "type": "course"}
+  ],
+  "Git": [
+    {"title": "Pro Git Book", "provider": "Book", "url": "https://git-scm.com/book/en/v2", "type": "reading"},
+    {"title": "Git and GitHub Crash Course", "provider": "YouTube", "url": "https://www.youtube.com/watch?v=RGOj5yH7evk", "type": "course"}
+  ],
+  "TypeScript": [
+    {"title": "TypeScript Handbook", "provider": "Docs", "url": "https://www.typescriptlang.org/docs/handbook/intro.html", "type": "reading"},
+    {"title": "Understanding TypeScript", "provider": "Udemy", "url": "https://www.udemy.com/course/understanding-typescript/", "type": "course"}
+  ],
+  "FastAPI": [
+    {"title": "FastAPI Tutorial", "provider": "Docs", "url": "https://fastapi.tiangolo.com/tutorial/", "type": "reading"},
+    {"title": "Build APIs with FastAPI", "provider": "YouTube", "url": "https://www.youtube.com/watch?v=0sOvCWFmrtA", "type": "course"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "technical": {
+    "Programming Languages": ["Python", "JavaScript", "TypeScript", "Java", "C#", "Go", "Rust"],
+    "Frameworks": ["React", "Node.js", "Express", "Django", "Flask", "FastAPI"],
+    "Data": ["SQL", "PostgreSQL", "MySQL", "SQLite", "MongoDB", "Pandas", "NumPy"],
+    "Cloud & DevOps": ["Docker", "Kubernetes", "AWS", "Azure", "GCP", "CI/CD", "Git"],
+    "ML/AI": ["Machine Learning", "Deep Learning", "Data Science", "NLP", "scikit-learn"],
+    "Web": ["HTML", "CSS", "REST", "GraphQL"]
+  }
+}
